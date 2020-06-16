@@ -1,0 +1,12 @@
+{
+   "name": "default",
+   "type": "postgres",
+   "host": "localhost",
+   "port": 5432,
+   "username": "jack",
+   "password": "29041408",
+   "database": "Da_League",
+   "syncronize": true,
+   "logging": true,
+   "entities": ["src/entity/*.*"]
+}
